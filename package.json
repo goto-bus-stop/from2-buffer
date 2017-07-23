@@ -1,6 +1,6 @@
 {
   "name": "from2-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create a readable stream from a Buffer with from2",
   "main": "index.js",
   "scripts": {
