@@ -15,5 +15,13 @@
   "devDependencies": {
     "concat-stream": "^1.6.0",
     "tape": "^4.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goto-bus-stop/from2-buffer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/goto-bus-stop/from2-buffer/issues"
+  },
+  "homepage": "https://github.com/goto-bus-stop/from2-buffer#readme"
 }
