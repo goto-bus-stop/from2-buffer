@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "concat-stream": "^2.0.0",
-    "tape": "^4.7.0"
+    "tape": "^5.0.0"
   },
   "repository": {
     "type": "git",
